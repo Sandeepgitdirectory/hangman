@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
+// push the file 
 int main(){
     int number,guess,nguesses;
     srand(time(0));
