@@ -1,7 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
-//comiit
 int main(){
     int number,guess,nguesses;
     srand(time(0));
